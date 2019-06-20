@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/IdSalesOrder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Sales Order ID :" />
+
+    <TextView
+        android:id="@+id/IdCostumerID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Costumer ID :" />
+
+    <TextView
+        android:id="@+id/IdProductID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Costumer ID :" />
+
+    <TextView
+        android:id="@+id/IdQTy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Qty :" />
+
+</LinearLayout>
